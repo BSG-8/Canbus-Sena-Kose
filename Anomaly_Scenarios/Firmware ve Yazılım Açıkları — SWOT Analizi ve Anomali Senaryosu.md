@@ -1,7 +1,7 @@
 
 # Firmware ve Yazılım Açıkları — Anomali Senaryosu
 
-## 🔍 SWAT Analizi
+## 🔍 SWOT Analizi
 
 ### Strengths (Güçlü Yönler)
 - Yapay zekâ tabanlı tespit sistemi
