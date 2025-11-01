@@ -1,5 +1,5 @@
 
-# Firmware ve Yazılım Açıkları — SWAT Analizi ve Anomali Senaryosu
+# Firmware ve Yazılım Açıkları — Anomali Senaryosu
 
 ## 🔍 SWAT Analizi
 
